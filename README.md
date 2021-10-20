@@ -12,7 +12,7 @@ hi, i'm [Salah Moslih](https://salahmoslih.me/), a moroccan Data & Software Engi
 
 I love developing data products and solving challenging real world problems using data.
 
-I am very passionate about different applications of data science and computer vision and in my free time I enjoy writing articles on various artificial intelligence topics in my [Personal Blog](https://talkinai.tech/)
+I am very passionate about different applications of data science and computer vision and in my free time I enjoy writing articles on various artificial intelligence topics in my [Personal Blog](https://talkinai.tech/blog)
 
 
 
