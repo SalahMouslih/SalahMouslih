@@ -10,7 +10,7 @@
 
 hi, i'm [Salah Moslih](https://salahmoslih.me/), a Data Engineer/Scientist. 
 
-I love developing data products and solving challenging real world problems using data.
+I develop data products and solving challenging real world problems using data.
 
 
 
