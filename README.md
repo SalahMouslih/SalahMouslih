@@ -5,7 +5,7 @@
 
 
   
-- 💼 any freelance work? do reach, [email](mailto:salahddin11@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:salahddin11@gmail.com)
 
 
 
