@@ -4,11 +4,6 @@
 
 
 
-  
-- 💼 any freelance work? do reach, [email](mailto:salahddin11@gmail.com)
-
-
-
 
 
 📈 my github stats:
